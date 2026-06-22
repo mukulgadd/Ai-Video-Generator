@@ -1,0 +1,9 @@
+{
+  "name": "Bharata",
+  "description": "Son of Kaikeyi, devoted brother of Rama",
+  "prompt_description": "young prince with fair skin, wearing orange dhoti with gold border, simple gold crown, humble devoted expression, carrying rama's sandals reverently",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/bharata/reference.png"
+  ],
+  "embedding_file": ""
+}

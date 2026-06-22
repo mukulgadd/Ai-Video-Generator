@@ -1,0 +1,9 @@
+{
+  "name": "Hanuman",
+  "description": "Vanara devotee of Rama, son of Vayu",
+  "prompt_description": "powerful vanara warrior with golden-orange fur covering muscular divine body, fierce yet devotional expression, wearing golden armor on chest, red dhoti, golden crown, long curling tail, holding golden mace",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/hanuman/reference.png"
+  ],
+  "embedding_file": ""
+}

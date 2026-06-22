@@ -1,0 +1,9 @@
+{
+  "name": "Queen Kaikeyi",
+  "description": "Second queen of Dasharatha, mother of Bharata",
+  "prompt_description": "beautiful queen wearing green silk saree with gold embroidery, emerald jewelry, elaborate hairstyle with gold pins, proud determined expression, fair complexion",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/queen_kaikeyi/reference.png"
+  ],
+  "embedding_file": ""
+}

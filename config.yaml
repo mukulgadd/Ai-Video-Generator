@@ -1,0 +1,59 @@
+pipeline:
+  schedule_time: "06:00"
+  target_duration_seconds: 120
+  retry_attempts: 3
+
+animation:
+  style_reference: "indian_traditional_art"
+  resolution: [1080, 1920]
+  fps: 24
+  model: "stable-diffusion-xl"
+  lora_path: "./models/indian_art_lora.safetensors"
+
+narration:
+  default_locale: "hi"
+  narrator_voice: "narrator_v1"
+  tts_provider: "edge"
+  character_voices:
+    Rama: "voice_rama_01"
+    Sita: "voice_sita_01"
+    Hanuman: "voice_hanuman_01"
+    Ravana: "voice_ravana_01"
+    King Dasharatha: "voice_dasharatha_01"
+    Lakshmana: "voice_lakshmana_01"
+    Vishwamitra: "voice_vishwamitra_01"
+    Sage Vishwamitra: "voice_vishwamitra_02"
+    Sage Vasishtha: "voice_vasishtha_01"
+    Queen Kausalya: "voice_kausalya_01"
+    Queen Kaikeyi: "voice_kaikeyi_01"
+    Queen Sumitra: "voice_sumitra_01"
+    Bharata: "voice_bharata_01"
+    Shatrughna: "voice_shatrughna_01"
+
+audio:
+  music_library_path: "./assets/music/"
+  sfx_library_path: "./assets/sfx/"
+  narration_boost_db: 9
+  crossfade_seconds: 0.75
+
+output:
+  format: "mp4"
+  video_codec: "h264"
+  audio_codec: "aac"
+
+storage:
+  provider: "s3"
+  bucket: "ramayan-videos"
+  path_prefix: "episodes/"
+
+distribution:
+  youtube:
+    enabled: false
+    credentials_path: "./credentials/youtube.json"
+  instagram:
+    enabled: false
+    credentials_path: "./credentials/instagram.json"
+
+notifications:
+  provider: "email"
+  recipients: ["admin@example.com"]

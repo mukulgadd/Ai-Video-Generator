@@ -1,0 +1,9 @@
+{
+  "name": "King Dasharatha",
+  "description": "King of Ayodhya, father of Rama",
+  "prompt_description": "elderly dignified king with grey beard, wearing magnificent golden crown, white and gold royal robes, ornate gold necklaces, wise caring expression, seated on golden throne",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/king_dasharatha/reference.png"
+  ],
+  "embedding_file": ""
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Lakshmana",
+  "description": "Younger brother of Rama, loyal companion",
+  "prompt_description": "young handsome prince with fair skin, wearing white dhoti with gold border, silver crown, carrying a bow and quiver, alert protective expression, slightly shorter than rama",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/lakshmana/reference.png"
+  ],
+  "embedding_file": ""
+}

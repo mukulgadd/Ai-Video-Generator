@@ -1,0 +1,46 @@
+# Environment secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Testing
+.hypothesis/
+.pytest_cache/
+
+# Output artifacts (generated videos, audio, thumbnails)
+output/*.mp4
+output/*.wav
+output/*.jpg
+output/*.txt
+output/*.png
+output/archive/
+output/Created/
+
+# Logs
+logs/
+
+# Credentials
+credentials/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Model weights (downloaded at runtime, too large for git)
+models/*.safetensors
+models/*.bin
+models/*.ckpt
+
+# Kiro internal
+.kiro/hooks/

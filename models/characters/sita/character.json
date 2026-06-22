@@ -1,0 +1,9 @@
+{
+  "name": "Sita",
+  "description": "Princess of Mithila, wife of Rama",
+  "prompt_description": "beautiful divine woman with fair golden skin, large doe eyes, gentle graceful expression, wearing red and gold silk saree with zari work, ornate gold maang tikka, heavy gold necklaces and bangles, jasmine flowers in dark hair, sindoor in hair parting",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/sita/reference.png"
+  ],
+  "embedding_file": ""
+}

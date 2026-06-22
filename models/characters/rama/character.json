@@ -1,0 +1,9 @@
+{
+  "name": "Rama",
+  "description": "Prince of Ayodhya, avatar of Vishnu",
+  "prompt_description": "young divine prince with blue-tinted skin, large lotus-shaped eyes, serene compassionate expression, wearing ornate golden mukut crown with peacock feather, golden earrings and necklaces, yellow silk dhoti with gold border, muscular build, holding divine bow, sacred tilak on forehead",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/rama/reference.png"
+  ],
+  "embedding_file": ""
+}

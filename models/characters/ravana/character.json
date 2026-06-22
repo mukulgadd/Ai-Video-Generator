@@ -1,0 +1,9 @@
+{
+  "name": "Ravana",
+  "description": "King of Lanka, ten-headed demon king",
+  "prompt_description": "powerful demon king with dark complexion, handsome but arrogant face with sharp features and thick mustache, wearing black and gold royal armor, ruby-studded golden crown, heavy gold jewelry, fierce confident expression, muscular powerful build",
+  "reference_images": [
+    "/Users/mukul.gaddhyan/Git/Personal-Youtube-Video-Genarator/models/characters/ravana/reference.png"
+  ],
+  "embedding_file": ""
+}
